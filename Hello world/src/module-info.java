@@ -1,0 +1,2 @@
+module hollo_world {
+}
